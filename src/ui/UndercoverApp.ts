@@ -342,6 +342,7 @@ export class UndercoverApp {
                   <button class="vote-card ${
                     this.selectedVoteId === player.id ? "selected" : ""
                   }" data-vote-id="${player.id}">
+                    ${renderPlayerOrder(player)}
                     ${playerIcon()}
                     <span class="player-name">${escapeHtml(player.name)}</span>
                   </button>
