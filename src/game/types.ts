@@ -20,6 +20,7 @@ export interface WordPair {
 export interface Player {
   id: string;
   name: string;
+  order: number;
   role: Role;
   word: string | null;
   alive: boolean;

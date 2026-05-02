@@ -131,6 +131,15 @@ h1 {
   letter-spacing: 0;
 }
 
+.reveal-player-title,
+.reveal-player-meta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
 h1 .role-icon {
   display: inline-block;
   width: 1.05em;
@@ -192,6 +201,12 @@ h1 .role-icon {
 .field select:focus,
 .player-name-row input:focus {
   border-color: var(--blue);
+}
+
+.player-name-row input.invalid,
+.player-name-row input[aria-invalid="true"] {
+  border-color: rgba(244, 63, 94, 0.78);
+  background: rgba(127, 29, 29, 0.28);
 }
 
 .stepper {
@@ -340,6 +355,10 @@ h1 .role-icon {
 
 .error-list p + p {
   margin-top: 6px;
+}
+
+.error-list.is-hidden {
+  display: none;
 }
 
 .notice.strong {
@@ -584,7 +603,7 @@ h1 .role-icon {
 
 .word-card span,
 .word-pair span,
-.player-row span:last-child {
+.player-row .player-name {
   color: var(--muted);
 }
 
@@ -661,7 +680,7 @@ h1 .role-icon {
 
 .player-row {
   display: grid;
-  grid-template-columns: auto minmax(0, 1fr);
+  grid-template-columns: auto auto minmax(0, 1fr);
   gap: 10px;
   align-items: center;
   min-height: 46px;
@@ -669,6 +688,32 @@ h1 .role-icon {
   border-radius: 8px;
   background: rgba(2, 6, 23, 0.42);
   padding: 9px 12px;
+}
+
+.player-order {
+  display: inline-grid;
+  width: 30px;
+  height: 30px;
+  place-items: center;
+  border: 1px solid rgba(214, 169, 79, 0.42);
+  border-radius: 999px;
+  background: rgba(214, 169, 79, 0.14);
+  color: #fde68a;
+  font-size: 0.82rem;
+  font-weight: 900;
+  line-height: 1;
+}
+
+h1 .player-order {
+  width: 36px;
+  height: 36px;
+  font-size: 1rem;
+}
+
+.eyebrow .player-order {
+  width: 24px;
+  height: 24px;
+  font-size: 0.74rem;
 }
 
 .status-dot {
@@ -686,7 +731,7 @@ h1 .role-icon {
 
 .vote-card {
   display: grid;
-  grid-template-columns: auto minmax(0, 1fr);
+  grid-template-columns: auto auto minmax(0, 1fr);
   gap: 10px;
   align-items: center;
   min-height: 76px;
@@ -699,7 +744,7 @@ h1 .role-icon {
   text-align: left;
 }
 
-.vote-card span {
+.vote-card .player-name {
   display: block;
   overflow-wrap: anywhere;
   font-size: 1rem;
@@ -788,7 +833,7 @@ h1 .role-icon {
 
 .result-group-player {
   display: grid;
-  grid-template-columns: auto minmax(0, 1fr);
+  grid-template-columns: auto auto minmax(0, 1fr);
   gap: 8px;
   align-items: center;
   min-height: 40px;
@@ -804,6 +849,12 @@ h1 .role-icon {
 .result-group-player .player-icon {
   width: 24px;
   height: 24px;
+}
+
+.result-group-player .player-order {
+  width: 24px;
+  height: 24px;
+  font-size: 0.72rem;
 }
 
 @media (max-width: 760px) {

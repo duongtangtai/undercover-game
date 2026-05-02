@@ -10,8 +10,12 @@
 
 ## Word Pair Generation
 - Only add Undercover word pairs from narrow semantic groups, not broad categories.
-- A valid pair must be near-synonymous, same object/role/action type, or two close variants of one concept.
+- A valid pair must be close enough to be fair, but still distinguishable enough that the spy can be caught.
+- Prefer same narrow category with clear differences: two dishes of the same style, two related tools with different use, two nearby professions with different duties, two similar actions with different details.
 - Reject pairs that merely appear together, share a room/context, or belong to a broad category without close meaning.
+- Reject pairs that are too close: synonyms, aliases, regional names, old/new names, spelling variants, abbreviation/full-name pairs, or one term that is just a generic/specific version of the other.
+- Reject pairs where most players would naturally describe them with the same clues. Examples to avoid: `ly / cốc`, `dù / ô`, `bắp / ngô`, `đậu phụ / tàu hũ`, `nhà sách / tiệm sách`, `tiệm giặt ủi / hiệu giặt là`, `trả giá / mặc cả`.
+- For every candidate pair, ask: "If a civilian says a truthful clue, can the spy's different word still create a detectable mismatch?" If not, remove the pair.
 - Before adding a batch, review every pair manually, then validate JSON parsing, normalized duplicates, same-word pairs, and non-letter characters.
 - Prefer small reviewed batches of 100-200 pairs over bulk generation.
 

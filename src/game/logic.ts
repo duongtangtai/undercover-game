@@ -99,14 +99,16 @@ export function createGame(config: GameConfig, wordPairs: WordPair[]): GameState
     normalizedConfig.spyCount,
     normalizedConfig.whiteCount,
   );
+  const shuffledPlayerNames = shuffle(normalizedConfig.playerNames, rng);
   const shuffledRoles = shuffle(roles, rng);
 
-  const players = normalizedConfig.playerNames.map<Player>((name, index) => {
+  const players = shuffledPlayerNames.map<Player>((name, index) => {
     const role = shuffledRoles[index];
 
     return {
       id: `p-${index + 1}`,
       name,
+      order: index + 1,
       role,
       word: wordForRole(role, selectedWordPair),
       alive: true,

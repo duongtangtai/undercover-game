@@ -105,11 +105,6 @@
     "spyWord": "khó chịu"
   },
   {
-    "category": "Cảm xúc",
-    "civilianWord": "bất ngờ",
-    "spyWord": "ngạc nhiên"
-  },
-  {
     "category": "Phương tiện",
     "civilianWord": "xe máy",
     "spyWord": "xe đạp"
@@ -248,16 +243,6 @@
     "category": "Cảm xúc",
     "civilianWord": "tức giận",
     "spyWord": "bực bội"
-  },
-  {
-    "category": "Tính cách",
-    "civilianWord": "chăm chỉ",
-    "spyWord": "siêng năng"
-  },
-  {
-    "category": "Tính cách",
-    "civilianWord": "nhút nhát",
-    "spyWord": "rụt rè"
   },
   {
     "category": "Trang phục",
@@ -413,11 +398,6 @@
     "category": "Phương tiện",
     "civilianWord": "xe máy",
     "spyWord": "xe điện"
-  },
-  {
-    "category": "Phương tiện",
-    "civilianWord": "máy bay",
-    "spyWord": "phi cơ"
   },
   {
     "category": "Nghề nghiệp",
@@ -1036,26 +1016,6 @@
   },
   {
     "category": "Đồ ăn",
-    "civilianWord": "bánh rán",
-    "spyWord": "bánh cam"
-  },
-  {
-    "category": "Đồ ăn",
-    "civilianWord": "chả lụa",
-    "spyWord": "giò lụa"
-  },
-  {
-    "category": "Đồ ăn",
-    "civilianWord": "nem rán",
-    "spyWord": "chả giò"
-  },
-  {
-    "category": "Đồ ăn",
-    "civilianWord": "gỏi cuốn",
-    "spyWord": "nem cuốn"
-  },
-  {
-    "category": "Đồ ăn",
     "civilianWord": "lẩu thái",
     "spyWord": "lẩu hải sản"
   },
@@ -1086,38 +1046,13 @@
   },
   {
     "category": "Đồ ăn",
-    "civilianWord": "nộm",
-    "spyWord": "gỏi"
-  },
-  {
-    "category": "Đồ ăn",
     "civilianWord": "cháo gà",
     "spyWord": "cháo vịt"
   },
   {
     "category": "Đồ ăn",
-    "civilianWord": "cơm chiên",
-    "spyWord": "cơm rang"
-  },
-  {
-    "category": "Đồ ăn",
     "civilianWord": "bánh đúc",
     "spyWord": "bánh giò"
-  },
-  {
-    "category": "Địa điểm",
-    "civilianWord": "nhà sách",
-    "spyWord": "tiệm sách"
-  },
-  {
-    "category": "Địa điểm",
-    "civilianWord": "hiệu thuốc",
-    "spyWord": "nhà thuốc"
-  },
-  {
-    "category": "Địa điểm",
-    "civilianWord": "rạp hát",
-    "spyWord": "nhà hát"
   },
   {
     "category": "Địa điểm",
@@ -1136,11 +1071,6 @@
   },
   {
     "category": "Địa điểm",
-    "civilianWord": "ga tàu",
-    "spyWord": "nhà ga"
-  },
-  {
-    "category": "Địa điểm",
     "civilianWord": "căn hộ",
     "spyWord": "chung cư"
   },
@@ -1153,16 +1083,6 @@
     "category": "Địa điểm",
     "civilianWord": "hiệu cắt tóc",
     "spyWord": "tiệm hớt tóc"
-  },
-  {
-    "category": "Địa điểm",
-    "civilianWord": "sân bay",
-    "spyWord": "phi trường"
-  },
-  {
-    "category": "Địa điểm",
-    "civilianWord": "bệnh viện",
-    "spyWord": "nhà thương"
   },
   {
     "category": "Địa điểm",
@@ -1186,11 +1106,6 @@
   },
   {
     "category": "Đồ vật",
-    "civilianWord": "quạt máy",
-    "spyWord": "quạt điện"
-  },
-  {
-    "category": "Đồ vật",
     "civilianWord": "bóng đèn",
     "spyWord": "đèn điện"
   },
@@ -1206,21 +1121,6 @@
   },
   {
     "category": "Đồ vật",
-    "civilianWord": "chén",
-    "spyWord": "bát"
-  },
-  {
-    "category": "Đồ vật",
-    "civilianWord": "ly",
-    "spyWord": "cốc"
-  },
-  {
-    "category": "Đồ vật",
-    "civilianWord": "dù",
-    "spyWord": "ô"
-  },
-  {
-    "category": "Đồ vật",
     "civilianWord": "xe nôi",
     "spyWord": "xe đẩy em bé"
   },
@@ -1228,11 +1128,6 @@
     "category": "Đồ vật",
     "civilianWord": "máy ảnh",
     "spyWord": "máy quay"
-  },
-  {
-    "category": "Đồ vật",
-    "civilianWord": "bàn ủi",
-    "spyWord": "bàn là"
   },
   {
     "category": "Đồ vật",
@@ -1248,11 +1143,6 @@
     "category": "Đồ vật",
     "civilianWord": "khăn tắm",
     "spyWord": "khăn mặt"
-  },
-  {
-    "category": "Đồ vật",
-    "civilianWord": "găng tay",
-    "spyWord": "bao tay"
   },
   {
     "category": "Hoạt động",
@@ -1273,11 +1163,6 @@
     "category": "Hoạt động",
     "civilianWord": "nấu ăn",
     "spyWord": "nấu cơm"
-  },
-  {
-    "category": "Hoạt động",
-    "civilianWord": "ca hát",
-    "spyWord": "hát hò"
   },
   {
     "category": "Hoạt động",
@@ -1331,16 +1216,6 @@
   },
   {
     "category": "Nghề nghiệp",
-    "civilianWord": "lái xe",
-    "spyWord": "tài xế"
-  },
-  {
-    "category": "Nghề nghiệp",
-    "civilianWord": "nông dân",
-    "spyWord": "nhà nông"
-  },
-  {
-    "category": "Nghề nghiệp",
     "civilianWord": "nhà báo",
     "spyWord": "phóng viên"
   },
@@ -1381,16 +1256,6 @@
   },
   {
     "category": "Thiên nhiên",
-    "civilianWord": "hoàng hôn",
-    "spyWord": "chiều tà"
-  },
-  {
-    "category": "Thiên nhiên",
-    "civilianWord": "trăng rằm",
-    "spyWord": "trăng tròn"
-  },
-  {
-    "category": "Thiên nhiên",
     "civilianWord": "rừng thông",
     "spyWord": "rừng tre"
   },
@@ -1415,59 +1280,9 @@
     "spyWord": "đại dương"
   },
   {
-    "category": "Cảm xúc",
-    "civilianWord": "vui mừng",
-    "spyWord": "mừng rỡ"
-  },
-  {
-    "category": "Cảm xúc",
-    "civilianWord": "lo âu",
-    "spyWord": "lo lắng"
-  },
-  {
-    "category": "Cảm xúc",
-    "civilianWord": "tức tối",
-    "spyWord": "tức giận"
-  },
-  {
-    "category": "Cảm xúc",
-    "civilianWord": "ngượng ngùng",
-    "spyWord": "ngại ngùng"
-  },
-  {
-    "category": "Cảm xúc",
-    "civilianWord": "bình tĩnh",
-    "spyWord": "điềm tĩnh"
-  },
-  {
-    "category": "Tính cách",
-    "civilianWord": "chăm chỉ",
-    "spyWord": "cần cù"
-  },
-  {
-    "category": "Tính cách",
-    "civilianWord": "thật thà",
-    "spyWord": "trung thực"
-  },
-  {
-    "category": "Tính cách",
-    "civilianWord": "nóng nảy",
-    "spyWord": "nóng tính"
-  },
-  {
     "category": "Tính cách",
     "civilianWord": "bướng bỉnh",
     "spyWord": "cố chấp"
-  },
-  {
-    "category": "Tính cách",
-    "civilianWord": "hào phóng",
-    "spyWord": "rộng lượng"
-  },
-  {
-    "category": "Phương tiện",
-    "civilianWord": "xe hơi",
-    "spyWord": "ô tô"
   },
   {
     "category": "Phương tiện",
@@ -1478,11 +1293,6 @@
     "category": "Phương tiện",
     "civilianWord": "thuyền buồm",
     "spyWord": "thuyền máy"
-  },
-  {
-    "category": "Phương tiện",
-    "civilianWord": "xe lửa",
-    "spyWord": "tàu hỏa"
   },
   {
     "category": "Phương tiện",
@@ -1503,16 +1313,6 @@
     "category": "Phương tiện",
     "civilianWord": "ca nô",
     "spyWord": "xuồng máy"
-  },
-  {
-    "category": "Phương tiện",
-    "civilianWord": "xe cứu thương",
-    "spyWord": "xe cấp cứu"
-  },
-  {
-    "category": "Phương tiện",
-    "civilianWord": "xe đò",
-    "spyWord": "xe khách"
   },
   {
     "category": "Sức khỏe",
@@ -1536,11 +1336,6 @@
   },
   {
     "category": "Đồ ăn",
-    "civilianWord": "bánh cuốn nóng",
-    "spyWord": "bánh ướt"
-  },
-  {
-    "category": "Đồ ăn",
     "civilianWord": "bánh bèo",
     "spyWord": "bánh nậm"
   },
@@ -1548,11 +1343,6 @@
     "category": "Đồ ăn",
     "civilianWord": "xôi gấc",
     "spyWord": "xôi vò"
-  },
-  {
-    "category": "Đồ ăn",
-    "civilianWord": "đậu phụ",
-    "spyWord": "tàu hũ"
   },
   {
     "category": "Đồ ăn",
@@ -1606,16 +1396,6 @@
   },
   {
     "category": "Địa điểm",
-    "civilianWord": "bệnh xá",
-    "spyWord": "trạm xá"
-  },
-  {
-    "category": "Địa điểm",
-    "civilianWord": "tiệm tạp hóa",
-    "spyWord": "quầy tạp hóa"
-  },
-  {
-    "category": "Địa điểm",
     "civilianWord": "bưu điện",
     "spyWord": "điểm gửi hàng"
   },
@@ -1636,23 +1416,8 @@
   },
   {
     "category": "Địa điểm",
-    "civilianWord": "điểm dừng xe buýt",
-    "spyWord": "bến chờ xe buýt"
-  },
-  {
-    "category": "Địa điểm",
     "civilianWord": "cửa khẩu",
     "spyWord": "trạm kiểm soát"
-  },
-  {
-    "category": "Địa điểm",
-    "civilianWord": "xưởng mộc",
-    "spyWord": "xưởng gỗ"
-  },
-  {
-    "category": "Địa điểm",
-    "civilianWord": "rẫy bắp",
-    "spyWord": "ruộng bắp"
   },
   {
     "category": "Địa điểm",
@@ -1663,11 +1428,6 @@
     "category": "Đồ vật",
     "civilianWord": "tủ sách",
     "spyWord": "giá sách"
-  },
-  {
-    "category": "Đồ vật",
-    "civilianWord": "rèm cửa",
-    "spyWord": "màn cửa"
   },
   {
     "category": "Đồ vật",
@@ -1696,11 +1456,6 @@
   },
   {
     "category": "Đồ vật",
-    "civilianWord": "ấm trà",
-    "spyWord": "bình trà"
-  },
-  {
-    "category": "Đồ vật",
     "civilianWord": "bình nước",
     "spyWord": "chai nước"
   },
@@ -1711,23 +1466,8 @@
   },
   {
     "category": "Đồ vật",
-    "civilianWord": "lọ hoa",
-    "spyWord": "bình hoa"
-  },
-  {
-    "category": "Đồ vật",
-    "civilianWord": "kim khâu",
-    "spyWord": "kim may"
-  },
-  {
-    "category": "Đồ vật",
     "civilianWord": "dây thừng",
     "spyWord": "sợi dây"
-  },
-  {
-    "category": "Đồ vật",
-    "civilianWord": "thùng rác",
-    "spyWord": "sọt rác"
   },
   {
     "category": "Đồ vật",
@@ -1738,11 +1478,6 @@
     "category": "Đồ vật",
     "civilianWord": "vợt cầu lông",
     "spyWord": "vợt bóng bàn"
-  },
-  {
-    "category": "Đồ vật",
-    "civilianWord": "bình xịt",
-    "spyWord": "chai xịt"
   },
   {
     "category": "Trang phục",
@@ -1761,48 +1496,13 @@
   },
   {
     "category": "Trang phục",
-    "civilianWord": "khăn choàng",
-    "spyWord": "khăn quàng"
-  },
-  {
-    "category": "Trang phục",
-    "civilianWord": "nón kết",
-    "spyWord": "mũ lưỡi trai"
-  },
-  {
-    "category": "Trang phục",
-    "civilianWord": "giày lười",
-    "spyWord": "giày mọi"
-  },
-  {
-    "category": "Trang phục",
     "civilianWord": "dép cói",
     "spyWord": "dép mây"
-  },
-  {
-    "category": "Trang phục",
-    "civilianWord": "tất chân",
-    "spyWord": "vớ chân"
-  },
-  {
-    "category": "Hoạt động",
-    "civilianWord": "giặt quần áo",
-    "spyWord": "giặt áo quần"
-  },
-  {
-    "category": "Hoạt động",
-    "civilianWord": "rửa bát",
-    "spyWord": "rửa chén"
   },
   {
     "category": "Hoạt động",
     "civilianWord": "lau sàn",
     "spyWord": "quét sàn"
-  },
-  {
-    "category": "Hoạt động",
-    "civilianWord": "gấp quần áo",
-    "spyWord": "xếp quần áo"
   },
   {
     "category": "Hoạt động",
@@ -1846,11 +1546,6 @@
   },
   {
     "category": "Nghề nghiệp",
-    "civilianWord": "nha sĩ",
-    "spyWord": "bác sĩ nha khoa"
-  },
-  {
-    "category": "Nghề nghiệp",
     "civilianWord": "thầy thuốc",
     "spyWord": "lương y"
   },
@@ -1883,11 +1578,6 @@
     "category": "Nghề nghiệp",
     "civilianWord": "dịch giả",
     "spyWord": "thông dịch viên"
-  },
-  {
-    "category": "Nghề nghiệp",
-    "civilianWord": "thủ kho",
-    "spyWord": "nhân viên kho"
   },
   {
     "category": "Nghề nghiệp",
@@ -1946,11 +1636,6 @@
   },
   {
     "category": "Động vật",
-    "civilianWord": "cá quả",
-    "spyWord": "cá chuối"
-  },
-  {
-    "category": "Động vật",
     "civilianWord": "cá mè",
     "spyWord": "cá trắm"
   },
@@ -1993,16 +1678,6 @@
     "category": "Động vật",
     "civilianWord": "thằn lằn",
     "spyWord": "kỳ nhông"
-  },
-  {
-    "category": "Cảm xúc",
-    "civilianWord": "hân hoan",
-    "spyWord": "hồ hởi"
-  },
-  {
-    "category": "Cảm xúc",
-    "civilianWord": "u sầu",
-    "spyWord": "buồn bã"
   },
   {
     "category": "Cảm xúc",
@@ -2056,38 +1731,8 @@
   },
   {
     "category": "Đồ ăn",
-    "civilianWord": "cháo trắng",
-    "spyWord": "cháo hoa"
-  },
-  {
-    "category": "Đồ ăn",
-    "civilianWord": "bắp luộc",
-    "spyWord": "ngô luộc"
-  },
-  {
-    "category": "Đồ ăn",
-    "civilianWord": "bắp rang",
-    "spyWord": "bỏng ngô"
-  },
-  {
-    "category": "Đồ ăn",
     "civilianWord": "khoai lang",
     "spyWord": "khoai môn"
-  },
-  {
-    "category": "Đồ ăn",
-    "civilianWord": "dưa leo",
-    "spyWord": "dưa chuột"
-  },
-  {
-    "category": "Đồ ăn",
-    "civilianWord": "thơm",
-    "spyWord": "dứa"
-  },
-  {
-    "category": "Đồ ăn",
-    "civilianWord": "mãng cầu",
-    "spyWord": "na"
   },
   {
     "category": "Đồ ăn",
@@ -2106,53 +1751,13 @@
   },
   {
     "category": "Đồ ăn",
-    "civilianWord": "bánh tráng",
-    "spyWord": "bánh đa nem"
-  },
-  {
-    "category": "Đồ ăn",
-    "civilianWord": "bánh phu thê",
-    "spyWord": "bánh xu xê"
-  },
-  {
-    "category": "Đồ ăn",
-    "civilianWord": "đậu xanh",
-    "spyWord": "đỗ xanh"
-  },
-  {
-    "category": "Đồ ăn",
-    "civilianWord": "mè đen",
-    "spyWord": "vừng đen"
-  },
-  {
-    "category": "Đồ ăn",
-    "civilianWord": "heo quay",
-    "spyWord": "lợn quay"
-  },
-  {
-    "category": "Đồ ăn",
-    "civilianWord": "cá lóc nướng",
-    "spyWord": "cá quả nướng"
-  },
-  {
-    "category": "Đồ ăn",
     "civilianWord": "canh chua cá",
     "spyWord": "lẩu chua cá"
-  },
-  {
-    "category": "Đồ ăn",
-    "civilianWord": "thịt ba chỉ",
-    "spyWord": "thịt ba rọi"
   },
   {
     "category": "Địa điểm",
     "civilianWord": "trường mầm non",
     "spyWord": "nhà trẻ"
-  },
-  {
-    "category": "Địa điểm",
-    "civilianWord": "trường tiểu học",
-    "spyWord": "trường cấp một"
   },
   {
     "category": "Địa điểm",
@@ -2176,23 +1781,8 @@
   },
   {
     "category": "Địa điểm",
-    "civilianWord": "nhà kho",
-    "spyWord": "kho hàng"
-  },
-  {
-    "category": "Địa điểm",
     "civilianWord": "xưởng may",
     "spyWord": "xưởng dệt"
-  },
-  {
-    "category": "Địa điểm",
-    "civilianWord": "tiệm giặt ủi",
-    "spyWord": "hiệu giặt là"
-  },
-  {
-    "category": "Địa điểm",
-    "civilianWord": "trạm xăng",
-    "spyWord": "cây xăng"
   },
   {
     "category": "Địa điểm",
@@ -2201,33 +1791,13 @@
   },
   {
     "category": "Địa điểm",
-    "civilianWord": "phòng ngủ",
-    "spyWord": "buồng ngủ"
-  },
-  {
-    "category": "Địa điểm",
-    "civilianWord": "phòng bếp",
-    "spyWord": "nhà bếp"
-  },
-  {
-    "category": "Địa điểm",
     "civilianWord": "khu dân cư",
     "spyWord": "khu phố"
   },
   {
     "category": "Địa điểm",
-    "civilianWord": "ngõ hẻm",
-    "spyWord": "con hẻm"
-  },
-  {
-    "category": "Địa điểm",
     "civilianWord": "bến phà",
     "spyWord": "bến đò"
-  },
-  {
-    "category": "Địa điểm",
-    "civilianWord": "bãi đậu xe",
-    "spyWord": "bãi gửi xe"
   },
   {
     "category": "Địa điểm",
@@ -2256,11 +1826,6 @@
   },
   {
     "category": "Đồ vật",
-    "civilianWord": "muỗng",
-    "spyWord": "thìa"
-  },
-  {
-    "category": "Đồ vật",
     "civilianWord": "đũa tre",
     "spyWord": "đũa gỗ"
   },
@@ -2281,11 +1846,6 @@
   },
   {
     "category": "Đồ vật",
-    "civilianWord": "thau nhựa",
-    "spyWord": "chậu nhựa"
-  },
-  {
-    "category": "Đồ vật",
     "civilianWord": "xô nước",
     "spyWord": "thùng nước"
   },
@@ -2296,33 +1856,8 @@
   },
   {
     "category": "Đồ vật",
-    "civilianWord": "túi nilon",
-    "spyWord": "túi nhựa"
-  },
-  {
-    "category": "Đồ vật",
-    "civilianWord": "dây sạc",
-    "spyWord": "cáp sạc"
-  },
-  {
-    "category": "Đồ vật",
-    "civilianWord": "sạc dự phòng",
-    "spyWord": "pin dự phòng"
-  },
-  {
-    "category": "Đồ vật",
-    "civilianWord": "khóa kéo",
-    "spyWord": "dây kéo"
-  },
-  {
-    "category": "Đồ vật",
     "civilianWord": "kẹp tóc",
     "spyWord": "trâm cài"
-  },
-  {
-    "category": "Đồ vật",
-    "civilianWord": "gương soi",
-    "spyWord": "kính soi"
   },
   {
     "category": "Đồ vật",
@@ -2351,38 +1886,13 @@
   },
   {
     "category": "Đồ vật",
-    "civilianWord": "tập vở",
-    "spyWord": "quyển vở"
-  },
-  {
-    "category": "Đồ vật",
     "civilianWord": "giấy nháp",
     "spyWord": "giấy ghi chú"
-  },
-  {
-    "category": "Đồ vật",
-    "civilianWord": "hồ dán",
-    "spyWord": "keo dán"
-  },
-  {
-    "category": "Đồ vật",
-    "civilianWord": "băng dính",
-    "spyWord": "băng keo"
   },
   {
     "category": "Hoạt động",
     "civilianWord": "đi chợ",
     "spyWord": "mua sắm"
-  },
-  {
-    "category": "Hoạt động",
-    "civilianWord": "trả giá",
-    "spyWord": "mặc cả"
-  },
-  {
-    "category": "Hoạt động",
-    "civilianWord": "thanh toán",
-    "spyWord": "trả tiền"
   },
   {
     "category": "Hoạt động",
@@ -2393,11 +1903,6 @@
     "category": "Hoạt động",
     "civilianWord": "gửi thư",
     "spyWord": "gửi bưu phẩm"
-  },
-  {
-    "category": "Hoạt động",
-    "civilianWord": "đóng cửa",
-    "spyWord": "khép cửa"
   },
   {
     "category": "Hoạt động",
@@ -2456,11 +1961,6 @@
   },
   {
     "category": "Hoạt động",
-    "civilianWord": "lái xe",
-    "spyWord": "điều khiển xe"
-  },
-  {
-    "category": "Hoạt động",
     "civilianWord": "đón khách",
     "spyWord": "đưa khách"
   },
@@ -2516,18 +2016,8 @@
   },
   {
     "category": "Nghề nghiệp",
-    "civilianWord": "thợ hồ",
-    "spyWord": "thợ xây"
-  },
-  {
-    "category": "Nghề nghiệp",
     "civilianWord": "thợ sắt",
     "spyWord": "thợ nhôm kính"
-  },
-  {
-    "category": "Nghề nghiệp",
-    "civilianWord": "thợ giày",
-    "spyWord": "thợ đóng giày"
   },
   {
     "category": "Nghề nghiệp",
@@ -2541,28 +2031,8 @@
   },
   {
     "category": "Nghề nghiệp",
-    "civilianWord": "ngư dân",
-    "spyWord": "dân chài"
-  },
-  {
-    "category": "Nghề nghiệp",
     "civilianWord": "kiểm lâm",
     "spyWord": "nhân viên bảo vệ rừng"
-  },
-  {
-    "category": "Nghề nghiệp",
-    "civilianWord": "thủ thư",
-    "spyWord": "nhân viên thư viện"
-  },
-  {
-    "category": "Nghề nghiệp",
-    "civilianWord": "nhân viên giao hàng",
-    "spyWord": "người giao hàng"
-  },
-  {
-    "category": "Nghề nghiệp",
-    "civilianWord": "người trông trẻ",
-    "spyWord": "bảo mẫu"
   },
   {
     "category": "Nghề nghiệp",
@@ -2571,23 +2041,8 @@
   },
   {
     "category": "Thiên nhiên",
-    "civilianWord": "tia nắng",
-    "spyWord": "ánh nắng"
-  },
-  {
-    "category": "Thiên nhiên",
-    "civilianWord": "cơn mưa",
-    "spyWord": "trận mưa"
-  },
-  {
-    "category": "Thiên nhiên",
     "civilianWord": "mưa đá",
     "spyWord": "mưa tuyết"
-  },
-  {
-    "category": "Thiên nhiên",
-    "civilianWord": "giông tố",
-    "spyWord": "giông bão"
   },
   {
     "category": "Thiên nhiên",
@@ -2626,11 +2081,6 @@
   },
   {
     "category": "Thiên nhiên",
-    "civilianWord": "hoa nhài",
-    "spyWord": "hoa lài"
-  },
-  {
-    "category": "Thiên nhiên",
     "civilianWord": "núi đá",
     "spyWord": "núi lửa"
   },
@@ -2651,16 +2101,6 @@
   },
   {
     "category": "Động vật",
-    "civilianWord": "vịt xiêm",
-    "spyWord": "ngan"
-  },
-  {
-    "category": "Động vật",
-    "civilianWord": "lợn rừng",
-    "spyWord": "heo rừng"
-  },
-  {
-    "category": "Động vật",
     "civilianWord": "chim bồ câu",
     "spyWord": "chim cu gáy"
   },
@@ -2668,11 +2108,6 @@
     "category": "Động vật",
     "civilianWord": "chim én",
     "spyWord": "chim yến"
-  },
-  {
-    "category": "Cảm xúc",
-    "civilianWord": "vui sướng",
-    "spyWord": "sung sướng"
   },
   {
     "category": "Cảm xúc",
@@ -2685,24 +2120,9 @@
     "spyWord": "cáu kỉnh"
   },
   {
-    "category": "Cảm xúc",
-    "civilianWord": "bình thản",
-    "spyWord": "thản nhiên"
-  },
-  {
-    "category": "Cảm xúc",
-    "civilianWord": "xấu hổ",
-    "spyWord": "mắc cỡ"
-  },
-  {
     "category": "Tính cách",
     "civilianWord": "kiên trì",
     "spyWord": "bền bỉ"
-  },
-  {
-    "category": "Tính cách",
-    "civilianWord": "cẩn trọng",
-    "spyWord": "thận trọng"
   },
   {
     "category": "Tính cách",
@@ -2711,38 +2131,8 @@
   },
   {
     "category": "Tính cách",
-    "civilianWord": "gan dạ",
-    "spyWord": "dũng cảm"
-  },
-  {
-    "category": "Tính cách",
     "civilianWord": "lạc quan",
     "spyWord": "yêu đời"
-  },
-  {
-    "category": "Đồ ăn",
-    "civilianWord": "bột ngọt",
-    "spyWord": "mì chính"
-  },
-  {
-    "category": "Đồ ăn",
-    "civilianWord": "thịt heo",
-    "spyWord": "thịt lợn"
-  },
-  {
-    "category": "Đồ ăn",
-    "civilianWord": "bắp",
-    "spyWord": "ngô"
-  },
-  {
-    "category": "Đồ ăn",
-    "civilianWord": "lạc",
-    "spyWord": "đậu phộng"
-  },
-  {
-    "category": "Đồ ăn",
-    "civilianWord": "sắn",
-    "spyWord": "khoai mì"
   },
   {
     "category": "Đồ ăn",
@@ -2761,63 +2151,13 @@
   },
   {
     "category": "Địa điểm",
-    "civilianWord": "nhà vệ sinh",
-    "spyWord": "phòng vệ sinh"
-  },
-  {
-    "category": "Địa điểm",
-    "civilianWord": "phòng khách",
-    "spyWord": "phòng tiếp khách"
-  },
-  {
-    "category": "Địa điểm",
     "civilianWord": "đồn công an",
     "spyWord": "trụ sở công an"
-  },
-  {
-    "category": "Địa điểm",
-    "civilianWord": "chợ đêm",
-    "spyWord": "chợ tối"
-  },
-  {
-    "category": "Địa điểm",
-    "civilianWord": "bến đò ngang",
-    "spyWord": "bến phà"
-  },
-  {
-    "category": "Địa điểm",
-    "civilianWord": "phòng cấp cứu",
-    "spyWord": "khoa cấp cứu"
-  },
-  {
-    "category": "Địa điểm",
-    "civilianWord": "phòng xét nghiệm",
-    "spyWord": "khoa xét nghiệm"
-  },
-  {
-    "category": "Đồ vật",
-    "civilianWord": "máy điều hòa",
-    "spyWord": "máy lạnh"
-  },
-  {
-    "category": "Đồ vật",
-    "civilianWord": "tủ quần áo",
-    "spyWord": "tủ áo"
-  },
-  {
-    "category": "Đồ vật",
-    "civilianWord": "mền",
-    "spyWord": "chăn"
   },
   {
     "category": "Đồ vật",
     "civilianWord": "gối ôm",
     "spyWord": "gối dài"
-  },
-  {
-    "category": "Đồ vật",
-    "civilianWord": "bàn chải đánh răng",
-    "spyWord": "bàn chải răng"
   },
   {
     "category": "Đồ vật",
@@ -2841,21 +2181,6 @@
   },
   {
     "category": "Hoạt động",
-    "civilianWord": "đạp xe",
-    "spyWord": "đi xe đạp"
-  },
-  {
-    "category": "Hoạt động",
-    "civilianWord": "đá bóng",
-    "spyWord": "chơi bóng đá"
-  },
-  {
-    "category": "Hoạt động",
-    "civilianWord": "giặt đồ",
-    "spyWord": "giặt giũ"
-  },
-  {
-    "category": "Hoạt động",
     "civilianWord": "lau nhà",
     "spyWord": "lau sàn"
   },
@@ -2866,23 +2191,8 @@
   },
   {
     "category": "Hoạt động",
-    "civilianWord": "thái thịt",
-    "spyWord": "cắt thịt"
-  },
-  {
-    "category": "Hoạt động",
     "civilianWord": "nêm gia vị",
     "spyWord": "ướp gia vị"
-  },
-  {
-    "category": "Hoạt động",
-    "civilianWord": "tiêm thuốc",
-    "spyWord": "chích thuốc"
-  },
-  {
-    "category": "Hoạt động",
-    "civilianWord": "khám bệnh",
-    "spyWord": "đi khám"
   },
   {
     "category": "Nghề nghiệp",
@@ -2890,69 +2200,14 @@
     "spyWord": "thợ quét vôi"
   },
   {
-    "category": "Nghề nghiệp",
-    "civilianWord": "thợ sửa ống nước",
-    "spyWord": "thợ nước"
-  },
-  {
-    "category": "Nghề nghiệp",
-    "civilianWord": "người pha chế",
-    "spyWord": "nhân viên pha chế"
-  },
-  {
-    "category": "Nghề nghiệp",
-    "civilianWord": "phục vụ bàn",
-    "spyWord": "nhân viên phục vụ"
-  },
-  {
-    "category": "Nghề nghiệp",
-    "civilianWord": "giáo viên tiểu học",
-    "spyWord": "thầy cô cấp một"
-  },
-  {
-    "category": "Sức khỏe",
-    "civilianWord": "đau đầu",
-    "spyWord": "nhức đầu"
-  },
-  {
     "category": "Sức khỏe",
     "civilianWord": "cảm cúm",
     "spyWord": "cảm lạnh"
   },
   {
-    "category": "Thiên nhiên",
-    "civilianWord": "mưa lớn",
-    "spyWord": "mưa to"
-  },
-  {
-    "category": "Thiên nhiên",
-    "civilianWord": "nắng gắt",
-    "spyWord": "nắng nóng"
-  },
-  {
-    "category": "Giải trí",
-    "civilianWord": "truyện ngắn",
-    "spyWord": "truyện cực ngắn"
-  },
-  {
     "category": "Trang phục",
     "civilianWord": "giày thể thao",
     "spyWord": "giày chạy bộ"
-  },
-  {
-    "category": "Xây dựng",
-    "civilianWord": "gạch đỏ",
-    "spyWord": "gạch nung"
-  },
-  {
-    "category": "Địa điểm",
-    "civilianWord": "phòng khám",
-    "spyWord": "phòng mạch"
-  },
-  {
-    "category": "Hoạt động",
-    "civilianWord": "chạy bộ",
-    "spyWord": "chạy chậm"
   },
   {
     "category": "Gia đình",
@@ -2965,19 +2220,9 @@
     "spyWord": "dù lượn"
   },
   {
-    "category": "Trang phục",
-    "civilianWord": "giày da",
-    "spyWord": "giày tây"
-  },
-  {
     "category": "Động vật",
     "civilianWord": "mèo nhà",
     "spyWord": "mèo hoang"
-  },
-  {
-    "category": "Địa điểm",
-    "civilianWord": "trạm y tế",
-    "spyWord": "bệnh xá"
   },
   {
     "category": "Nghề nghiệp",
@@ -2993,10 +2238,5 @@
     "category": "Xây dựng",
     "civilianWord": "đá xanh",
     "spyWord": "đá hộc"
-  },
-  {
-    "category": "Nghề nghiệp",
-    "civilianWord": "thợ điện",
-    "spyWord": "kỹ thuật viên điện"
   }
 ]

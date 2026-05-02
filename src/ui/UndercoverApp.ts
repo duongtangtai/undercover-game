@@ -9,6 +9,7 @@ import {
   getRoleCounts,
   MIN_PLAYERS,
   MAX_PLAYERS,
+  normalizeText,
   normalizeConfig,
   revealCurrentPlayer,
   startVote,
@@ -109,6 +110,7 @@ export class UndercoverApp {
     const playerCount = this.draft.playerNames.length;
     const roleCounts = getFixedRoleCounts(playerCount);
     const errors = validateConfig(this.draft);
+    const hasErrors = errors.length > 0;
 
     this.root.innerHTML = `
       <section class="screen setup-screen">
@@ -150,10 +152,10 @@ export class UndercoverApp {
               .join("")}
           </div>
 
-          ${errors.length > 0 ? renderErrors(errors) : ""}
+          ${renderErrors(errors)}
 
           <div class="actions setup-actions">
-            <button class="primary-button" type="submit">Bắt đầu</button>
+            <button class="primary-button" data-action="start-game" type="submit" ${hasErrors ? "disabled" : ""}>Bắt đầu</button>
           </div>
         </form>
       </section>
@@ -170,6 +172,7 @@ export class UndercoverApp {
       input.addEventListener("input", () => {
         const index = Number(input.dataset.nameIndex);
         this.draft.playerNames[index] = input.value;
+        this.updateSetupValidation();
       });
     });
 
@@ -220,27 +223,36 @@ export class UndercoverApp {
 
   private renderRevealShown(): void {
     const player = this.getCurrentPlayerOrThrow();
+    const isWhite = player.role === "white";
     const word = player.word ?? "";
     const wordCard =
-      player.role === "white"
-        ? `<div class="word-card blank-word-card" aria-label="Mũ trắng không có từ"></div>`
+      isWhite
+        ? `<div class="word-card blank-word-card" aria-label="White has no keyword"></div>`
         : `
           <div class="word-card">
             ${clueIcon()}
-            <span>Từ của bạn</span>
+            <span>T&#7915; kho&#225; c&#7911;a b&#7841;n</span>
             <strong>${escapeHtml(word)}</strong>
           </div>
         `;
+    const panelClass = isWhite ? roleClass("white") : "word-only";
+    const revealTitle = isWhite
+      ? `${roleIcon("white")} ${ROLE_LABELS.white}`
+      : `${clueIcon()} T&#7915; kho&#225; c&#7911;a b&#7841;n`;
+    const nextButtonLabel =
+      this.state && this.state.currentRevealIndex >= this.state.players.length - 1
+        ? "Bắt đầu thảo luận"
+        : "Ẩn và chuyển máy";
 
     this.root.innerHTML = `
       <section class="screen centered-screen has-action-menu">
-        <div class="panel reveal-panel ${roleClass(player.role)}">
+        <div class="panel reveal-panel ${panelClass}">
           ${this.renderProgress()}
           <p class="eyebrow">${escapeHtml(player.name)}</p>
-          <h1>${roleIcon(player.role)} ${ROLE_LABELS[player.role]}</h1>
+          <h1>${revealTitle}</h1>
           ${wordCard}
           <div class="actions reveal-actions">
-            <button class="primary-button" data-action="hide-role">Ẩn và chuyển máy</button>
+            <button class="primary-button" data-action="hide-role">${nextButtonLabel}</button>
           </div>
         </div>
         ${this.renderGameActionMenu()}
@@ -331,7 +343,7 @@ export class UndercoverApp {
                     this.selectedVoteId === player.id ? "selected" : ""
                   }" data-vote-id="${player.id}">
                     ${playerIcon()}
-                    <span>${escapeHtml(player.name)}</span>
+                    <span class="player-name">${escapeHtml(player.name)}</span>
                   </button>
                 `,
               )
@@ -342,7 +354,7 @@ export class UndercoverApp {
             <button class="secondary-button" data-action="back-discussion">Quay lại</button>
             <button class="primary-button" data-action="confirm-vote" ${
               selected ? "" : "disabled"
-            }>Loại ${selected ? escapeHtml(selected.name) : "người chơi"}</button>
+            }>Loại</button>
           </div>
         </div>
         ${this.renderFeedbackPopup()}
@@ -410,16 +422,14 @@ export class UndercoverApp {
       <section class="screen centered-screen has-action-menu">
         <form class="eliminated-modal role-white" data-form="white-guess">
           <div class="modal-role-icon">${roleIcon("white")}</div>
-          <p class="eyebrow">Mũ trắng bị loại</p>
-          <h1>Chúc mừng mũ trắng đã bị loại. Mũ trắng có thể đoán từ khoá của dân:</h1>
-          <p class="modal-player-name">${escapeHtml(player?.name ?? "Mũ trắng")}</p>
-          ${this.notice ? `<div class="notice">${escapeHtml(this.notice)}</div>` : ""}
+          <p class="modal-player-name">${player ? escapeHtml(player.name) : "Mũ trắng"}</p>
+          <h1>Chúc mừng mũ trắng đã bị loại!</h1>
           <label class="field guess-field">
-            <span>Đoán từ dân thường</span>
+            <span>Đoán từ khoá của dân (không bắt buộc)</span>
             <input data-field="whiteGuess" type="text" autocomplete="off" autofocus />
           </label>
           <div class="actions reveal-actions">
-            <button class="primary-button" type="submit">Chốt dự đoán</button>
+            <button class="primary-button" type="submit">Đoán và tiếp tục</button>
           </div>
         </form>
         ${this.renderGameActionMenu()}
@@ -439,18 +449,12 @@ export class UndercoverApp {
         const input = this.root.querySelector<HTMLInputElement>('[data-field="whiteGuess"]');
         const guess = input?.value.trim() ?? "";
 
-        if (!guess) {
-          this.notice = "Nhập từ dự đoán trước khi chốt.";
-          this.renderWhiteGuess();
-          return;
-        }
-
         input?.blur();
         window.scrollTo(0, 0);
 
         const nextState = submitWhiteGuess(this.state, guess);
 
-        if (nextState.phase !== "result") {
+        if (guess && nextState.phase !== "result") {
           this.notice = "";
           this.feedbackPopup = {
             kind: "whiteWrongGuess",
@@ -549,6 +553,29 @@ export class UndercoverApp {
 
   }
 
+  private updateSetupValidation(): void {
+    const errors = validateConfig(this.draft);
+    const errorList = this.root.querySelector<HTMLElement>("[data-setup-errors]");
+    const startButton = this.root.querySelector<HTMLButtonElement>('[data-action="start-game"]');
+    const duplicateIndexes = getDuplicateNameIndexes(this.draft.playerNames);
+
+    if (errorList) {
+      errorList.classList.toggle("is-hidden", errors.length === 0);
+      errorList.innerHTML = errors.map((error) => `<p>${escapeHtml(error)}</p>`).join("");
+    }
+
+    if (startButton) {
+      startButton.disabled = errors.length > 0;
+    }
+
+    this.root.querySelectorAll<HTMLInputElement>("[data-name-index]").forEach((input) => {
+      const index = Number(input.dataset.nameIndex);
+      const isInvalid = input.value.trim().length === 0 || duplicateIndexes.has(index);
+      input.classList.toggle("invalid", isInvalid);
+      input.setAttribute("aria-invalid", isInvalid ? "true" : "false");
+    });
+  }
+
   private setPlayerCount(value: number): void {
     const nextCount = clamp(value, MIN_PLAYERS, MAX_PLAYERS);
     const nextNames = [...this.draft.playerNames];
@@ -617,7 +644,7 @@ export class UndercoverApp {
       <div class="modal-backdrop" role="dialog" aria-modal="true">
         <div class="eliminated-modal ${roleClass(role)}">
           <div class="modal-role-icon">${roleIcon(role)}</div>
-          ${player ? `<p class="eyebrow">${escapeHtml(player.name)}</p>` : ""}
+          ${player ? `<p class="eyebrow reveal-player-meta">${escapeHtml(player.name)}</p>` : ""}
           <h1>${title}</h1>
           <div class="actions reveal-actions">
             <button class="primary-button" data-action="close-feedback-popup">Tiếp tục</button>
@@ -817,17 +844,44 @@ function renderRoleCount(role: "civilian" | "spy" | "white", count: number): str
 
 function renderErrors(errors: string[]): string {
   return `
-    <div class="error-list">
+    <div class="error-list ${errors.length === 0 ? "is-hidden" : ""}" data-setup-errors>
       ${errors.map((error) => `<p>${escapeHtml(error)}</p>`).join("")}
     </div>
   `;
 }
 
+function getDuplicateNameIndexes(names: string[]): Set<number> {
+  const indexesByName = new Map<string, number[]>();
+
+  names.forEach((name, index) => {
+    const normalizedName = normalizeText(name);
+
+    if (!normalizedName) {
+      return;
+    }
+
+    const indexes = indexesByName.get(normalizedName) ?? [];
+    indexes.push(index);
+    indexesByName.set(normalizedName, indexes);
+  });
+
+  const duplicateIndexes = new Set<number>();
+
+  indexesByName.forEach((indexes) => {
+    if (indexes.length > 1) {
+      indexes.forEach((index) => duplicateIndexes.add(index));
+    }
+  });
+
+  return duplicateIndexes;
+}
+
 function renderAlivePlayer(player: Player): string {
   return `
     <div class="player-row">
+      ${renderPlayerOrder(player)}
       ${playerIcon()}
-      <strong>${escapeHtml(player.name)}</strong>
+      <strong class="player-name">${escapeHtml(player.name)}</strong>
     </div>
   `;
 }
@@ -865,9 +919,22 @@ function renderResultGroupPlayer(player: Player): string {
   return `
     <div class="result-group-player ${player.alive ? "" : "eliminated"}">
       ${playerIcon()}
-      <span>${escapeHtml(player.name)}</span>
+      <span class="player-name">${escapeHtml(player.name)}</span>
     </div>
   `;
+}
+
+function renderPlayerOrder(player: Player): string {
+  return `<span class="player-order" aria-label="Thứ tự ${getPlayerOrder(player)}">${getPlayerOrder(player)}</span>`;
+}
+
+function getPlayerOrder(player: Player): number {
+  if (Number.isFinite(player.order)) {
+    return player.order;
+  }
+
+  const parsedOrder = Number(player.id.replace(/^p-/, ""));
+  return Number.isFinite(parsedOrder) && parsedOrder > 0 ? parsedOrder : 1;
 }
 
 function clamp(value: number, min: number, max: number): number {
