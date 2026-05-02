@@ -1,0 +1,3002 @@
+[
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "phở",
+    "spyWord": "bún bò"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "bánh mì",
+    "spyWord": "bánh bao"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "kem",
+    "spyWord": "sữa chua"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "rạp phim",
+    "spyWord": "nhà hát"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "bệnh viện",
+    "spyWord": "phòng khám"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "siêu thị",
+    "spyWord": "chợ"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "điện thoại",
+    "spyWord": "máy tính bảng"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "ba lô",
+    "spyWord": "vali"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "tai nghe",
+    "spyWord": "loa"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "bác sĩ",
+    "spyWord": "y tá"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "giáo viên",
+    "spyWord": "gia sư"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "đầu bếp",
+    "spyWord": "phụ bếp"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "phi công",
+    "spyWord": "tiếp viên"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "bơi lội",
+    "spyWord": "lặn biển"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "đá bóng",
+    "spyWord": "bóng rổ"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "biển",
+    "spyWord": "hồ"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "núi",
+    "spyWord": "đồi"
+  },
+  {
+    "category": "Giải trí",
+    "civilianWord": "cờ vua",
+    "spyWord": "cờ tướng"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "vui vẻ",
+    "spyWord": "hạnh phúc"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "lo lắng",
+    "spyWord": "sợ hãi"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "tức giận",
+    "spyWord": "khó chịu"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "bất ngờ",
+    "spyWord": "ngạc nhiên"
+  },
+  {
+    "category": "Phương tiện",
+    "civilianWord": "xe máy",
+    "spyWord": "xe đạp"
+  },
+  {
+    "category": "Phương tiện",
+    "civilianWord": "tàu hỏa",
+    "spyWord": "tàu điện"
+  },
+  {
+    "category": "Phương tiện",
+    "civilianWord": "thuyền",
+    "spyWord": "xuồng máy"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "phở",
+    "spyWord": "hủ tiếu"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "cơm tấm",
+    "spyWord": "cơm rang"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "xoài",
+    "spyWord": "ổi"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "rau muống",
+    "spyWord": "cải xanh"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "nước mắm",
+    "spyWord": "mắm tôm"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "cá thu",
+    "spyWord": "cá ngừ"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "nem chua",
+    "spyWord": "chả giò"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "công viên",
+    "spyWord": "quảng trường"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "lớp học",
+    "spyWord": "phòng học"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "siêu thị",
+    "spyWord": "cửa hàng tạp hóa"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "khách sạn",
+    "spyWord": "nhà nghỉ"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "bút bi",
+    "spyWord": "bút chì"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "búa",
+    "spyWord": "cưa tay"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "đi bộ",
+    "spyWord": "chạy bộ"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "đọc sách",
+    "spyWord": "học bài"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "đá bóng",
+    "spyWord": "bóng chuyền"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "họp nhóm",
+    "spyWord": "bàn bạc"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "quét nhà",
+    "spyWord": "lau nhà"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "giáo viên",
+    "spyWord": "giảng viên"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "đầu bếp",
+    "spyWord": "thợ làm bánh"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "biển",
+    "spyWord": "sông"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "hoa sen",
+    "spyWord": "hoa hồng"
+  },
+  {
+    "category": "Phương tiện",
+    "civilianWord": "tàu hỏa",
+    "spyWord": "tàu cao tốc"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "vui vẻ",
+    "spyWord": "phấn khởi"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "tức giận",
+    "spyWord": "bực bội"
+  },
+  {
+    "category": "Tính cách",
+    "civilianWord": "chăm chỉ",
+    "spyWord": "siêng năng"
+  },
+  {
+    "category": "Tính cách",
+    "civilianWord": "nhút nhát",
+    "spyWord": "rụt rè"
+  },
+  {
+    "category": "Trang phục",
+    "civilianWord": "áo sơ mi",
+    "spyWord": "áo thun"
+  },
+  {
+    "category": "Trang phục",
+    "civilianWord": "quần bò",
+    "spyWord": "quần tây"
+  },
+  {
+    "category": "Trang phục",
+    "civilianWord": "giày thể thao",
+    "spyWord": "giày da"
+  },
+  {
+    "category": "Gia đình",
+    "civilianWord": "ông nội",
+    "spyWord": "bà nội"
+  },
+  {
+    "category": "Công nghệ",
+    "civilianWord": "cuộc gọi hình",
+    "spyWord": "tin nhắn"
+  },
+  {
+    "category": "Trường học",
+    "civilianWord": "bài kiểm tra",
+    "spyWord": "bài thi"
+  },
+  {
+    "category": "Màu sắc",
+    "civilianWord": "màu đỏ",
+    "spyWord": "màu hồng"
+  },
+  {
+    "category": "Âm thanh",
+    "civilianWord": "tiếng mưa",
+    "spyWord": "tiếng gió"
+  },
+  {
+    "category": "Động vật",
+    "civilianWord": "chó",
+    "spyWord": "mèo"
+  },
+  {
+    "category": "Động vật",
+    "civilianWord": "cá chép",
+    "spyWord": "cá rô"
+  },
+  {
+    "category": "Nông nghiệp",
+    "civilianWord": "ruộng lúa",
+    "spyWord": "nương ngô"
+  },
+  {
+    "category": "Nông nghiệp",
+    "civilianWord": "gieo hạt",
+    "spyWord": "cấy lúa"
+  },
+  {
+    "category": "Xây dựng",
+    "civilianWord": "xây tường",
+    "spyWord": "trát vữa"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "cơm tấm",
+    "spyWord": "cơm gà"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "rau muống",
+    "spyWord": "cải ngọt"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "nước mắm",
+    "spyWord": "mắm nêm"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "cá thu",
+    "spyWord": "cá basa"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "khách sạn",
+    "spyWord": "nhà lưu trú"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "búa",
+    "spyWord": "kìm"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "đọc sách",
+    "spyWord": "làm bài tập"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "họp nhóm",
+    "spyWord": "tranh luận"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "ca sĩ",
+    "spyWord": "nhạc sĩ"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "hoa sen",
+    "spyWord": "hoa cúc"
+  },
+  {
+    "category": "Gia đình",
+    "civilianWord": "ông nội",
+    "spyWord": "ông ngoại"
+  },
+  {
+    "category": "Màu sắc",
+    "civilianWord": "màu đỏ",
+    "spyWord": "màu cam"
+  },
+  {
+    "category": "Âm thanh",
+    "civilianWord": "tiếng mưa",
+    "spyWord": "tiếng sóng"
+  },
+  {
+    "category": "Động vật",
+    "civilianWord": "cá chép",
+    "spyWord": "cá lóc"
+  },
+  {
+    "category": "Nông nghiệp",
+    "civilianWord": "gieo hạt",
+    "spyWord": "gặt lúa"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "lo lắng",
+    "spyWord": "căng thẳng"
+  },
+  {
+    "category": "Hình dạng",
+    "civilianWord": "hình tròn",
+    "spyWord": "hình bầu dục"
+  },
+  {
+    "category": "Phương tiện",
+    "civilianWord": "xe máy",
+    "spyWord": "xe điện"
+  },
+  {
+    "category": "Phương tiện",
+    "civilianWord": "máy bay",
+    "spyWord": "phi cơ"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "bác sĩ",
+    "spyWord": "điều dưỡng"
+  },
+  {
+    "category": "Phương tiện",
+    "civilianWord": "máy bay",
+    "spyWord": "máy bay chở khách"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "mưa",
+    "spyWord": "mưa phùn"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "nhà ga",
+    "spyWord": "bến xe"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "chợ",
+    "spyWord": "cửa hàng tạp hóa"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "bóng rổ",
+    "spyWord": "bóng chuyền"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "gia sư",
+    "spyWord": "giảng viên"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "phụ bếp",
+    "spyWord": "thợ làm bánh"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "hồ",
+    "spyWord": "sông"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "đồi",
+    "spyWord": "cao nguyên"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "mưa",
+    "spyWord": "mưa rào"
+  },
+  {
+    "category": "Phương tiện",
+    "civilianWord": "tàu điện",
+    "spyWord": "tàu cao tốc"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "hạnh phúc",
+    "spyWord": "phấn khởi"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "khó chịu",
+    "spyWord": "bực bội"
+  },
+  {
+    "category": "Hình dạng",
+    "civilianWord": "hình tròn",
+    "spyWord": "hình cầu"
+  },
+  {
+    "category": "Giải trí",
+    "civilianWord": "tiểu thuyết",
+    "spyWord": "truyện ngắn"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "nấm rơm",
+    "spyWord": "nấm hương"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "nhà ga",
+    "spyWord": "bến tàu"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "phòng khám",
+    "spyWord": "trạm y tế"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "cưa tay",
+    "spyWord": "kìm"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "bàn bạc",
+    "spyWord": "tranh luận"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "thợ xây",
+    "spyWord": "thợ sơn"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "hồ",
+    "spyWord": "suối"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "hoa hồng",
+    "spyWord": "hoa cúc"
+  },
+  {
+    "category": "Sức khỏe",
+    "civilianWord": "sốt",
+    "spyWord": "ho"
+  },
+  {
+    "category": "Sức khỏe",
+    "civilianWord": "uống thuốc",
+    "spyWord": "tiêm thuốc"
+  },
+  {
+    "category": "Hình dạng",
+    "civilianWord": "hình vuông",
+    "spyWord": "hình chữ nhật"
+  },
+  {
+    "category": "Âm thanh",
+    "civilianWord": "tiếng gió",
+    "spyWord": "tiếng sóng"
+  },
+  {
+    "category": "Nông nghiệp",
+    "civilianWord": "cấy lúa",
+    "spyWord": "gặt lúa"
+  },
+  {
+    "category": "Xây dựng",
+    "civilianWord": "trát vữa",
+    "spyWord": "sơn nhà"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "nhà nghỉ",
+    "spyWord": "nhà lưu trú"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "máy tính bảng",
+    "spyWord": "máy tính xách tay"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "gối",
+    "spyWord": "nệm"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "hoa hồng",
+    "spyWord": "hoa mai"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "sợ hãi",
+    "spyWord": "căng thẳng"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "khó chịu",
+    "spyWord": "ấm ức"
+  },
+  {
+    "category": "Trang phục",
+    "civilianWord": "giày da",
+    "spyWord": "giày xăng đan"
+  },
+  {
+    "category": "Sức khỏe",
+    "civilianWord": "sốt",
+    "spyWord": "sổ mũi"
+  },
+  {
+    "category": "Màu sắc",
+    "civilianWord": "màu hồng",
+    "spyWord": "màu cam"
+  },
+  {
+    "category": "Xây dựng",
+    "civilianWord": "trát vữa",
+    "spyWord": "lát gạch"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "cơm rang",
+    "spyWord": "cơm gà"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "trà đá",
+    "spyWord": "trà sen"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "cải xanh",
+    "spyWord": "cải ngọt"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "cá ngừ",
+    "spyWord": "cá basa"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "chả giò",
+    "spyWord": "gỏi cuốn"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "nhà nghỉ",
+    "spyWord": "khu nghỉ dưỡng"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "sợ hãi",
+    "spyWord": "hồi hộp"
+  },
+  {
+    "category": "Màu sắc",
+    "civilianWord": "màu hồng",
+    "spyWord": "màu vàng"
+  },
+  {
+    "category": "Hình dạng",
+    "civilianWord": "hình vuông",
+    "spyWord": "hình thoi"
+  },
+  {
+    "category": "Động vật",
+    "civilianWord": "cá rô",
+    "spyWord": "cá lóc"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "bún bò",
+    "spyWord": "hủ tiếu"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "cơm rang",
+    "spyWord": "cơm niêu"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "trà đá",
+    "spyWord": "trà gừng"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "xoài",
+    "spyWord": "chuối"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "cải xanh",
+    "spyWord": "xà lách"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "mắm tôm",
+    "spyWord": "mắm nêm"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "chả giò",
+    "spyWord": "bò bía"
+  },
+  {
+    "category": "Động vật",
+    "civilianWord": "cá rô",
+    "spyWord": "cá trê"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "bún bò",
+    "spyWord": "miến gà"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "cơm rang",
+    "spyWord": "cơm nắm"
+  },
+  {
+    "category": "Phương tiện",
+    "civilianWord": "xe đạp",
+    "spyWord": "xe điện"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "chợ",
+    "spyWord": "cửa hàng tiện lợi"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "y tá",
+    "spyWord": "điều dưỡng"
+  },
+  {
+    "category": "Gia đình",
+    "civilianWord": "bà nội",
+    "spyWord": "bà ngoại"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "y tá",
+    "spyWord": "hộ lý"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "hạnh phúc",
+    "spyWord": "mừng rỡ"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "bến xe",
+    "spyWord": "bến tàu"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "học bài",
+    "spyWord": "làm bài tập"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "bóng chuyền",
+    "spyWord": "cầu lông"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "sông",
+    "spyWord": "suối"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "sương mù",
+    "spyWord": "mưa phùn"
+  },
+  {
+    "category": "Phương tiện",
+    "civilianWord": "xe buýt",
+    "spyWord": "xe khách"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "bối rối",
+    "spyWord": "ngại ngùng"
+  },
+  {
+    "category": "Giải trí",
+    "civilianWord": "cờ cá ngựa",
+    "spyWord": "ô ăn quan"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "bến xe",
+    "spyWord": "trạm xe buýt"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "chăn",
+    "spyWord": "nệm"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "tủ hồ sơ",
+    "spyWord": "kệ sách"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "kìm",
+    "spyWord": "tuốc nơ vít"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "học bài",
+    "spyWord": "nghe giảng"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "bóng chuyền",
+    "spyWord": "bóng bàn"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "giặt đồ",
+    "spyWord": "phơi áo"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "sông",
+    "spyWord": "thác"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "sương mù",
+    "spyWord": "mưa rào"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "hoa cúc",
+    "spyWord": "hoa mai"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "bực bội",
+    "spyWord": "ấm ức"
+  },
+  {
+    "category": "Trang phục",
+    "civilianWord": "dép lê",
+    "spyWord": "giày xăng đan"
+  },
+  {
+    "category": "Sức khỏe",
+    "civilianWord": "ho",
+    "spyWord": "sổ mũi"
+  },
+  {
+    "category": "Nông nghiệp",
+    "civilianWord": "gặt lúa",
+    "spyWord": "phơi thóc"
+  },
+  {
+    "category": "Xây dựng",
+    "civilianWord": "sơn nhà",
+    "spyWord": "lát gạch"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "bánh bao",
+    "spyWord": "bánh giò"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "kìm",
+    "spyWord": "mỏ lết"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "hoa cúc",
+    "spyWord": "hoa đào"
+  },
+  {
+    "category": "Trang phục",
+    "civilianWord": "quần ngắn",
+    "spyWord": "váy ngắn"
+  },
+  {
+    "category": "Hình dạng",
+    "civilianWord": "hình chữ nhật",
+    "spyWord": "hình thoi"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "nhà lưu trú",
+    "spyWord": "khu nghỉ dưỡng"
+  },
+  {
+    "category": "Màu sắc",
+    "civilianWord": "màu cam",
+    "spyWord": "màu vàng"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "cơm gà",
+    "spyWord": "cơm niêu"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "trà sen",
+    "spyWord": "trà gừng"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "cải ngọt",
+    "spyWord": "xà lách"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "cá basa",
+    "spyWord": "cá chép"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "gỏi cuốn",
+    "spyWord": "bò bía"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "cửa hàng tạp hóa",
+    "spyWord": "cửa hàng tiện lợi"
+  },
+  {
+    "category": "Phương tiện",
+    "civilianWord": "tàu lượn",
+    "spyWord": "dù bay"
+  },
+  {
+    "category": "Động vật",
+    "civilianWord": "trâu",
+    "spyWord": "bò"
+  },
+  {
+    "category": "Động vật",
+    "civilianWord": "cá lóc",
+    "spyWord": "cá trê"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "bánh cuốn",
+    "spyWord": "bánh xèo"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "cải ngọt",
+    "spyWord": "rau dền"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "phấn khởi",
+    "spyWord": "mừng rỡ"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "bánh cuốn",
+    "spyWord": "bánh khọt"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "vòng tay",
+    "spyWord": "nhẫn"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "làm bài tập",
+    "spyWord": "nghe giảng"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "suối",
+    "spyWord": "thác"
+  },
+  {
+    "category": "Phương tiện",
+    "civilianWord": "tàu thủy",
+    "spyWord": "thuyền"
+  },
+  {
+    "category": "Giải trí",
+    "civilianWord": "ô ăn quan",
+    "spyWord": "bầu cua"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "hủ tiếu",
+    "spyWord": "miến gà"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "tuốc nơ vít",
+    "spyWord": "mỏ lết"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "xà phòng",
+    "spyWord": "dầu gội"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "làm bài tập",
+    "spyWord": "ghi chép"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "cầu lông",
+    "spyWord": "quần vợt"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "họa sĩ",
+    "spyWord": "nhiếp ảnh gia"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "bún riêu",
+    "spyWord": "bún ốc"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "bún chả",
+    "spyWord": "bún thịt nướng"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "bánh chưng",
+    "spyWord": "bánh tét"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "bánh rán",
+    "spyWord": "bánh cam"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "chả lụa",
+    "spyWord": "giò lụa"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "nem rán",
+    "spyWord": "chả giò"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "gỏi cuốn",
+    "spyWord": "nem cuốn"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "lẩu thái",
+    "spyWord": "lẩu hải sản"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "chè đậu đỏ",
+    "spyWord": "chè đậu đen"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "sữa đậu nành",
+    "spyWord": "sữa bắp"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "trà đào",
+    "spyWord": "trà vải"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "cà phê sữa",
+    "spyWord": "bạc xỉu"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "nước cam",
+    "spyWord": "nước ép bưởi"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "nộm",
+    "spyWord": "gỏi"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "cháo gà",
+    "spyWord": "cháo vịt"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "cơm chiên",
+    "spyWord": "cơm rang"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "bánh đúc",
+    "spyWord": "bánh giò"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "nhà sách",
+    "spyWord": "tiệm sách"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "hiệu thuốc",
+    "spyWord": "nhà thuốc"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "rạp hát",
+    "spyWord": "nhà hát"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "sân vận động",
+    "spyWord": "nhà thi đấu"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "bến cảng",
+    "spyWord": "cảng biển"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "bãi biển",
+    "spyWord": "bờ biển"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "ga tàu",
+    "spyWord": "nhà ga"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "căn hộ",
+    "spyWord": "chung cư"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "quán ăn",
+    "spyWord": "nhà hàng"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "hiệu cắt tóc",
+    "spyWord": "tiệm hớt tóc"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "sân bay",
+    "spyWord": "phi trường"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "bệnh viện",
+    "spyWord": "nhà thương"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "chợ phiên",
+    "spyWord": "chợ quê"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "nhà trọ",
+    "spyWord": "nhà nghỉ"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "tủ lạnh",
+    "spyWord": "tủ đông"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "máy giặt",
+    "spyWord": "máy sấy"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "quạt máy",
+    "spyWord": "quạt điện"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "bóng đèn",
+    "spyWord": "đèn điện"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "nồi áp suất",
+    "spyWord": "nồi hấp"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "dao phay",
+    "spyWord": "dao thái"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "chén",
+    "spyWord": "bát"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "ly",
+    "spyWord": "cốc"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "dù",
+    "spyWord": "ô"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "xe nôi",
+    "spyWord": "xe đẩy em bé"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "máy ảnh",
+    "spyWord": "máy quay"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "bàn ủi",
+    "spyWord": "bàn là"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "pin",
+    "spyWord": "ắc quy"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "ổ khóa",
+    "spyWord": "khóa cửa"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "khăn tắm",
+    "spyWord": "khăn mặt"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "găng tay",
+    "spyWord": "bao tay"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "chạy bộ",
+    "spyWord": "chạy đường dài"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "đọc báo",
+    "spyWord": "đọc sách"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "viết thư",
+    "spyWord": "viết nhật ký"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "nấu ăn",
+    "spyWord": "nấu cơm"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "ca hát",
+    "spyWord": "hát hò"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "chụp ảnh",
+    "spyWord": "quay phim"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "sơn tường",
+    "spyWord": "quét vôi"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "sửa xe",
+    "spyWord": "bảo dưỡng xe"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "tập thể hình",
+    "spyWord": "tập tạ"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "dọn dẹp",
+    "spyWord": "vệ sinh nhà"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "câu cá",
+    "spyWord": "câu tôm"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "chèo thuyền",
+    "spyWord": "chèo xuồng"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "công an",
+    "spyWord": "cảnh sát"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "thợ may",
+    "spyWord": "thợ sửa quần áo"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "thợ cắt tóc",
+    "spyWord": "thợ làm tóc"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "lái xe",
+    "spyWord": "tài xế"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "nông dân",
+    "spyWord": "nhà nông"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "nhà báo",
+    "spyWord": "phóng viên"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "lập trình viên",
+    "spyWord": "kỹ sư phần mềm"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "bảo vệ",
+    "spyWord": "nhân viên an ninh"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "người bán hàng",
+    "spyWord": "nhân viên bán hàng"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "thợ mộc",
+    "spyWord": "thợ đóng đồ gỗ"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "mưa rào",
+    "spyWord": "mưa phùn"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "gió mùa",
+    "spyWord": "gió lạnh"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "bão",
+    "spyWord": "áp thấp nhiệt đới"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "hoàng hôn",
+    "spyWord": "chiều tà"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "trăng rằm",
+    "spyWord": "trăng tròn"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "rừng thông",
+    "spyWord": "rừng tre"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "hoa mai",
+    "spyWord": "hoa đào"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "sông",
+    "spyWord": "kênh"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "suối",
+    "spyWord": "khe nước"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "biển",
+    "spyWord": "đại dương"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "vui mừng",
+    "spyWord": "mừng rỡ"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "lo âu",
+    "spyWord": "lo lắng"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "tức tối",
+    "spyWord": "tức giận"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "ngượng ngùng",
+    "spyWord": "ngại ngùng"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "bình tĩnh",
+    "spyWord": "điềm tĩnh"
+  },
+  {
+    "category": "Tính cách",
+    "civilianWord": "chăm chỉ",
+    "spyWord": "cần cù"
+  },
+  {
+    "category": "Tính cách",
+    "civilianWord": "thật thà",
+    "spyWord": "trung thực"
+  },
+  {
+    "category": "Tính cách",
+    "civilianWord": "nóng nảy",
+    "spyWord": "nóng tính"
+  },
+  {
+    "category": "Tính cách",
+    "civilianWord": "bướng bỉnh",
+    "spyWord": "cố chấp"
+  },
+  {
+    "category": "Tính cách",
+    "civilianWord": "hào phóng",
+    "spyWord": "rộng lượng"
+  },
+  {
+    "category": "Phương tiện",
+    "civilianWord": "xe hơi",
+    "spyWord": "ô tô"
+  },
+  {
+    "category": "Phương tiện",
+    "civilianWord": "tàu thủy",
+    "spyWord": "tàu biển"
+  },
+  {
+    "category": "Phương tiện",
+    "civilianWord": "thuyền buồm",
+    "spyWord": "thuyền máy"
+  },
+  {
+    "category": "Phương tiện",
+    "civilianWord": "xe lửa",
+    "spyWord": "tàu hỏa"
+  },
+  {
+    "category": "Phương tiện",
+    "civilianWord": "xe tải",
+    "spyWord": "xe bán tải"
+  },
+  {
+    "category": "Phương tiện",
+    "civilianWord": "tàu điện ngầm",
+    "spyWord": "tàu điện"
+  },
+  {
+    "category": "Phương tiện",
+    "civilianWord": "xe điện",
+    "spyWord": "xe máy điện"
+  },
+  {
+    "category": "Phương tiện",
+    "civilianWord": "ca nô",
+    "spyWord": "xuồng máy"
+  },
+  {
+    "category": "Phương tiện",
+    "civilianWord": "xe cứu thương",
+    "spyWord": "xe cấp cứu"
+  },
+  {
+    "category": "Phương tiện",
+    "civilianWord": "xe đò",
+    "spyWord": "xe khách"
+  },
+  {
+    "category": "Sức khỏe",
+    "civilianWord": "sổ mũi",
+    "spyWord": "nghẹt mũi"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "miến cua",
+    "spyWord": "miến lươn"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "bánh canh cua",
+    "spyWord": "bánh canh cá"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "bún mọc",
+    "spyWord": "bún măng"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "bánh cuốn nóng",
+    "spyWord": "bánh ướt"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "bánh bèo",
+    "spyWord": "bánh nậm"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "xôi gấc",
+    "spyWord": "xôi vò"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "đậu phụ",
+    "spyWord": "tàu hũ"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "trà tắc",
+    "spyWord": "trà chanh"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "mứt dừa",
+    "spyWord": "mứt gừng"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "bánh tiêu",
+    "spyWord": "bánh quẩy"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "cá kho",
+    "spyWord": "thịt kho"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "chả cá",
+    "spyWord": "cá viên"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "canh bí",
+    "spyWord": "canh bầu"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "rau muống xào",
+    "spyWord": "rau cải xào"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "cháo lòng",
+    "spyWord": "cháo sườn"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "tiệm bánh",
+    "spyWord": "lò bánh"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "quán cà phê",
+    "spyWord": "quán trà"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "bệnh xá",
+    "spyWord": "trạm xá"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "tiệm tạp hóa",
+    "spyWord": "quầy tạp hóa"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "bưu điện",
+    "spyWord": "điểm gửi hàng"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "phòng đọc",
+    "spyWord": "thư viện trường"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "sân chơi",
+    "spyWord": "khu vui chơi"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "bãi giữ xe",
+    "spyWord": "nhà xe"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "điểm dừng xe buýt",
+    "spyWord": "bến chờ xe buýt"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "cửa khẩu",
+    "spyWord": "trạm kiểm soát"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "xưởng mộc",
+    "spyWord": "xưởng gỗ"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "rẫy bắp",
+    "spyWord": "ruộng bắp"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "vườn rau",
+    "spyWord": "luống rau"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "tủ sách",
+    "spyWord": "giá sách"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "rèm cửa",
+    "spyWord": "màn cửa"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "ghế đẩu",
+    "spyWord": "ghế xếp"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "bàn học",
+    "spyWord": "bàn làm việc"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "chổi quét",
+    "spyWord": "cây lau nhà"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "chiếu cói",
+    "spyWord": "thảm trải sàn"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "nồi đất",
+    "spyWord": "nồi gang"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "ấm trà",
+    "spyWord": "bình trà"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "bình nước",
+    "spyWord": "chai nước"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "hộp cơm",
+    "spyWord": "cặp lồng"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "lọ hoa",
+    "spyWord": "bình hoa"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "kim khâu",
+    "spyWord": "kim may"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "dây thừng",
+    "spyWord": "sợi dây"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "thùng rác",
+    "spyWord": "sọt rác"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "thước thẳng",
+    "spyWord": "thước dây"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "vợt cầu lông",
+    "spyWord": "vợt bóng bàn"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "bình xịt",
+    "spyWord": "chai xịt"
+  },
+  {
+    "category": "Trang phục",
+    "civilianWord": "áo khoác gió",
+    "spyWord": "áo khoác len"
+  },
+  {
+    "category": "Trang phục",
+    "civilianWord": "quần âu",
+    "spyWord": "quần vải"
+  },
+  {
+    "category": "Trang phục",
+    "civilianWord": "áo tứ thân",
+    "spyWord": "áo bà ba"
+  },
+  {
+    "category": "Trang phục",
+    "civilianWord": "khăn choàng",
+    "spyWord": "khăn quàng"
+  },
+  {
+    "category": "Trang phục",
+    "civilianWord": "nón kết",
+    "spyWord": "mũ lưỡi trai"
+  },
+  {
+    "category": "Trang phục",
+    "civilianWord": "giày lười",
+    "spyWord": "giày mọi"
+  },
+  {
+    "category": "Trang phục",
+    "civilianWord": "dép cói",
+    "spyWord": "dép mây"
+  },
+  {
+    "category": "Trang phục",
+    "civilianWord": "tất chân",
+    "spyWord": "vớ chân"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "giặt quần áo",
+    "spyWord": "giặt áo quần"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "rửa bát",
+    "spyWord": "rửa chén"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "lau sàn",
+    "spyWord": "quét sàn"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "gấp quần áo",
+    "spyWord": "xếp quần áo"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "tưới cây",
+    "spyWord": "bón phân"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "đóng gói",
+    "spyWord": "gói hàng"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "đặt vé",
+    "spyWord": "mua vé"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "gửi hàng",
+    "spyWord": "giao hàng"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "cắt tóc",
+    "spyWord": "nhuộm tóc"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "đi khám",
+    "spyWord": "tái khám"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "tắm biển",
+    "spyWord": "bơi biển"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "hái rau",
+    "spyWord": "nhặt rau"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "nha sĩ",
+    "spyWord": "bác sĩ nha khoa"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "thầy thuốc",
+    "spyWord": "lương y"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "giáo sư",
+    "spyWord": "phó giáo sư"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "kiểm toán viên",
+    "spyWord": "kế toán viên"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "kiến trúc sư",
+    "spyWord": "kỹ sư xây dựng"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "thợ nướng bánh",
+    "spyWord": "đầu bếp bánh"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "biên tập viên",
+    "spyWord": "người hiệu đính"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "dịch giả",
+    "spyWord": "thông dịch viên"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "thủ kho",
+    "spyWord": "nhân viên kho"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "thu ngân",
+    "spyWord": "giao dịch viên"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "đồi cát",
+    "spyWord": "cồn cát"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "hang động",
+    "spyWord": "động đá"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "đầm lầy",
+    "spyWord": "vùng lầy"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "vịnh biển",
+    "spyWord": "eo biển"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "mạch nước",
+    "spyWord": "giếng nước"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "cây đa",
+    "spyWord": "cây si"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "cây cau",
+    "spyWord": "cây dừa"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "bông súng",
+    "spyWord": "hoa súng"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "sương sớm",
+    "spyWord": "hơi sương"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "đất phù sa",
+    "spyWord": "đất bồi"
+  },
+  {
+    "category": "Động vật",
+    "civilianWord": "cá quả",
+    "spyWord": "cá chuối"
+  },
+  {
+    "category": "Động vật",
+    "civilianWord": "cá mè",
+    "spyWord": "cá trắm"
+  },
+  {
+    "category": "Động vật",
+    "civilianWord": "chim sẻ",
+    "spyWord": "chim sâu"
+  },
+  {
+    "category": "Động vật",
+    "civilianWord": "vịt trời",
+    "spyWord": "ngỗng trời"
+  },
+  {
+    "category": "Động vật",
+    "civilianWord": "bò sữa",
+    "spyWord": "bò thịt"
+  },
+  {
+    "category": "Động vật",
+    "civilianWord": "mèo mướp",
+    "spyWord": "mèo tam thể"
+  },
+  {
+    "category": "Động vật",
+    "civilianWord": "ong mật",
+    "spyWord": "ong rừng"
+  },
+  {
+    "category": "Động vật",
+    "civilianWord": "bướm đêm",
+    "spyWord": "bướm ngày"
+  },
+  {
+    "category": "Động vật",
+    "civilianWord": "rắn hổ mang",
+    "spyWord": "rắn lục"
+  },
+  {
+    "category": "Động vật",
+    "civilianWord": "thằn lằn",
+    "spyWord": "kỳ nhông"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "hân hoan",
+    "spyWord": "hồ hởi"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "u sầu",
+    "spyWord": "buồn bã"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "hoang mang",
+    "spyWord": "lúng túng"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "nôn nao",
+    "spyWord": "nôn nóng"
+  },
+  {
+    "category": "Tính cách",
+    "civilianWord": "tự tin",
+    "spyWord": "mạnh dạn"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "phở gà",
+    "spyWord": "phở bò"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "hủ tiếu nam vang",
+    "spyWord": "hủ tiếu sa tế"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "mì quảng",
+    "spyWord": "cao lầu"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "bánh hỏi",
+    "spyWord": "bánh ướt"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "bánh in",
+    "spyWord": "bánh khảo"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "chè bắp",
+    "spyWord": "chè khoai môn"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "chè trôi nước",
+    "spyWord": "bánh trôi"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "cháo trắng",
+    "spyWord": "cháo hoa"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "bắp luộc",
+    "spyWord": "ngô luộc"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "bắp rang",
+    "spyWord": "bỏng ngô"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "khoai lang",
+    "spyWord": "khoai môn"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "dưa leo",
+    "spyWord": "dưa chuột"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "thơm",
+    "spyWord": "dứa"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "mãng cầu",
+    "spyWord": "na"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "tôm sú",
+    "spyWord": "tôm thẻ"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "mực ống",
+    "spyWord": "mực nang"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "trứng vịt",
+    "spyWord": "trứng gà"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "bánh tráng",
+    "spyWord": "bánh đa nem"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "bánh phu thê",
+    "spyWord": "bánh xu xê"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "đậu xanh",
+    "spyWord": "đỗ xanh"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "mè đen",
+    "spyWord": "vừng đen"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "heo quay",
+    "spyWord": "lợn quay"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "cá lóc nướng",
+    "spyWord": "cá quả nướng"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "canh chua cá",
+    "spyWord": "lẩu chua cá"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "thịt ba chỉ",
+    "spyWord": "thịt ba rọi"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "trường mầm non",
+    "spyWord": "nhà trẻ"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "trường tiểu học",
+    "spyWord": "trường cấp một"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "trường trung học",
+    "spyWord": "trường cấp hai"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "trường đại học",
+    "spyWord": "cao đẳng"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "văn phòng",
+    "spyWord": "công sở"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "phòng họp",
+    "spyWord": "phòng hội nghị"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "nhà kho",
+    "spyWord": "kho hàng"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "xưởng may",
+    "spyWord": "xưởng dệt"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "tiệm giặt ủi",
+    "spyWord": "hiệu giặt là"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "trạm xăng",
+    "spyWord": "cây xăng"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "chung cư mini",
+    "spyWord": "nhà tập thể"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "phòng ngủ",
+    "spyWord": "buồng ngủ"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "phòng bếp",
+    "spyWord": "nhà bếp"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "khu dân cư",
+    "spyWord": "khu phố"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "ngõ hẻm",
+    "spyWord": "con hẻm"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "bến phà",
+    "spyWord": "bến đò"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "bãi đậu xe",
+    "spyWord": "bãi gửi xe"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "nhà máy",
+    "spyWord": "xí nghiệp"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "xe đẩy hàng",
+    "spyWord": "xe kéo hàng"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "nồi cơm điện",
+    "spyWord": "nồi điện"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "bếp ga",
+    "spyWord": "bếp điện"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "chảo chống dính",
+    "spyWord": "chảo gang"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "muỗng",
+    "spyWord": "thìa"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "đũa tre",
+    "spyWord": "đũa gỗ"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "thớt gỗ",
+    "spyWord": "thớt nhựa"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "rổ nhựa",
+    "spyWord": "rá tre"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "nia tre",
+    "spyWord": "mẹt tre"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "thau nhựa",
+    "spyWord": "chậu nhựa"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "xô nước",
+    "spyWord": "thùng nước"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "khăn giấy",
+    "spyWord": "giấy ăn"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "túi nilon",
+    "spyWord": "túi nhựa"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "dây sạc",
+    "spyWord": "cáp sạc"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "sạc dự phòng",
+    "spyWord": "pin dự phòng"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "khóa kéo",
+    "spyWord": "dây kéo"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "kẹp tóc",
+    "spyWord": "trâm cài"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "gương soi",
+    "spyWord": "kính soi"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "lược chải",
+    "spyWord": "lược thưa"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "bàn phím",
+    "spyWord": "chuột máy tính"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "màn hình",
+    "spyWord": "máy chiếu"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "máy in",
+    "spyWord": "máy photocopy"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "bút máy",
+    "spyWord": "bút mực"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "tập vở",
+    "spyWord": "quyển vở"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "giấy nháp",
+    "spyWord": "giấy ghi chú"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "hồ dán",
+    "spyWord": "keo dán"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "băng dính",
+    "spyWord": "băng keo"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "đi chợ",
+    "spyWord": "mua sắm"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "trả giá",
+    "spyWord": "mặc cả"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "thanh toán",
+    "spyWord": "trả tiền"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "gọi điện",
+    "spyWord": "nhắn tin"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "gửi thư",
+    "spyWord": "gửi bưu phẩm"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "đóng cửa",
+    "spyWord": "khép cửa"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "đánh răng",
+    "spyWord": "súc miệng"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "tắm gội",
+    "spyWord": "gội đầu"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "pha trà",
+    "spyWord": "pha cà phê"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "rang cà phê",
+    "spyWord": "xay cà phê"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "luộc rau",
+    "spyWord": "hấp rau"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "kho cá",
+    "spyWord": "kho thịt"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "nướng thịt",
+    "spyWord": "quay thịt"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "cắt giấy",
+    "spyWord": "xé giấy"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "may áo",
+    "spyWord": "vá áo"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "trồng cây",
+    "spyWord": "gieo hạt"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "thu hoạch",
+    "spyWord": "hái quả"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "lái xe",
+    "spyWord": "điều khiển xe"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "đón khách",
+    "spyWord": "đưa khách"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "xếp hàng",
+    "spyWord": "chờ lượt"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "ghi chú",
+    "spyWord": "chép bài"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "kiểm tra",
+    "spyWord": "chấm điểm"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "tính nhẩm",
+    "spyWord": "bấm máy"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "bác sĩ nội khoa",
+    "spyWord": "bác sĩ ngoại khoa"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "y sĩ",
+    "spyWord": "điều dưỡng viên"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "dược sĩ",
+    "spyWord": "người bán thuốc"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "giáo viên mầm non",
+    "spyWord": "cô nuôi dạy trẻ"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "thợ hàn",
+    "spyWord": "thợ cơ khí"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "thợ tiện",
+    "spyWord": "thợ phay"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "thợ hồ",
+    "spyWord": "thợ xây"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "thợ sắt",
+    "spyWord": "thợ nhôm kính"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "thợ giày",
+    "spyWord": "thợ đóng giày"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "thợ rèn",
+    "spyWord": "thợ đúc"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "thuyền trưởng",
+    "spyWord": "tài công"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "ngư dân",
+    "spyWord": "dân chài"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "kiểm lâm",
+    "spyWord": "nhân viên bảo vệ rừng"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "thủ thư",
+    "spyWord": "nhân viên thư viện"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "nhân viên giao hàng",
+    "spyWord": "người giao hàng"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "người trông trẻ",
+    "spyWord": "bảo mẫu"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "nhạc công",
+    "spyWord": "nghệ sĩ đàn"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "tia nắng",
+    "spyWord": "ánh nắng"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "cơn mưa",
+    "spyWord": "trận mưa"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "mưa đá",
+    "spyWord": "mưa tuyết"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "giông tố",
+    "spyWord": "giông bão"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "sấm sét",
+    "spyWord": "chớp sét"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "mây trắng",
+    "spyWord": "mây xám"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "cát biển",
+    "spyWord": "cát sông"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "đá cuội",
+    "spyWord": "sỏi đá"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "bùn đất",
+    "spyWord": "đất sét"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "cây lúa",
+    "spyWord": "cây mạ"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "lá non",
+    "spyWord": "chồi non"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "hoa nhài",
+    "spyWord": "hoa lài"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "núi đá",
+    "spyWord": "núi lửa"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "hang khô",
+    "spyWord": "hang nước"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "dòng suối",
+    "spyWord": "khe suối"
+  },
+  {
+    "category": "Động vật",
+    "civilianWord": "gà mái",
+    "spyWord": "gà trống"
+  },
+  {
+    "category": "Động vật",
+    "civilianWord": "vịt xiêm",
+    "spyWord": "ngan"
+  },
+  {
+    "category": "Động vật",
+    "civilianWord": "lợn rừng",
+    "spyWord": "heo rừng"
+  },
+  {
+    "category": "Động vật",
+    "civilianWord": "chim bồ câu",
+    "spyWord": "chim cu gáy"
+  },
+  {
+    "category": "Động vật",
+    "civilianWord": "chim én",
+    "spyWord": "chim yến"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "vui sướng",
+    "spyWord": "sung sướng"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "buồn rầu",
+    "spyWord": "sầu não"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "bực tức",
+    "spyWord": "cáu kỉnh"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "bình thản",
+    "spyWord": "thản nhiên"
+  },
+  {
+    "category": "Cảm xúc",
+    "civilianWord": "xấu hổ",
+    "spyWord": "mắc cỡ"
+  },
+  {
+    "category": "Tính cách",
+    "civilianWord": "kiên trì",
+    "spyWord": "bền bỉ"
+  },
+  {
+    "category": "Tính cách",
+    "civilianWord": "cẩn trọng",
+    "spyWord": "thận trọng"
+  },
+  {
+    "category": "Tính cách",
+    "civilianWord": "hòa nhã",
+    "spyWord": "thân thiện"
+  },
+  {
+    "category": "Tính cách",
+    "civilianWord": "gan dạ",
+    "spyWord": "dũng cảm"
+  },
+  {
+    "category": "Tính cách",
+    "civilianWord": "lạc quan",
+    "spyWord": "yêu đời"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "bột ngọt",
+    "spyWord": "mì chính"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "thịt heo",
+    "spyWord": "thịt lợn"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "bắp",
+    "spyWord": "ngô"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "lạc",
+    "spyWord": "đậu phộng"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "sắn",
+    "spyWord": "khoai mì"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "bánh ít",
+    "spyWord": "bánh gai"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "chè đậu xanh",
+    "spyWord": "chè hạt sen"
+  },
+  {
+    "category": "Đồ ăn",
+    "civilianWord": "nước sấu",
+    "spyWord": "nước me"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "nhà vệ sinh",
+    "spyWord": "phòng vệ sinh"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "phòng khách",
+    "spyWord": "phòng tiếp khách"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "đồn công an",
+    "spyWord": "trụ sở công an"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "chợ đêm",
+    "spyWord": "chợ tối"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "bến đò ngang",
+    "spyWord": "bến phà"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "phòng cấp cứu",
+    "spyWord": "khoa cấp cứu"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "phòng xét nghiệm",
+    "spyWord": "khoa xét nghiệm"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "máy điều hòa",
+    "spyWord": "máy lạnh"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "tủ quần áo",
+    "spyWord": "tủ áo"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "mền",
+    "spyWord": "chăn"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "gối ôm",
+    "spyWord": "gối dài"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "bàn chải đánh răng",
+    "spyWord": "bàn chải răng"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "bút xóa",
+    "spyWord": "xóa kéo"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "cưa gỗ",
+    "spyWord": "cưa tay"
+  },
+  {
+    "category": "Đồ vật",
+    "civilianWord": "dao rọc giấy",
+    "spyWord": "dao trổ"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "đi bộ",
+    "spyWord": "tản bộ"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "đạp xe",
+    "spyWord": "đi xe đạp"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "đá bóng",
+    "spyWord": "chơi bóng đá"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "giặt đồ",
+    "spyWord": "giặt giũ"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "lau nhà",
+    "spyWord": "lau sàn"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "rửa rau",
+    "spyWord": "nhặt rau"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "thái thịt",
+    "spyWord": "cắt thịt"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "nêm gia vị",
+    "spyWord": "ướp gia vị"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "tiêm thuốc",
+    "spyWord": "chích thuốc"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "khám bệnh",
+    "spyWord": "đi khám"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "thợ sơn nhà",
+    "spyWord": "thợ quét vôi"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "thợ sửa ống nước",
+    "spyWord": "thợ nước"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "người pha chế",
+    "spyWord": "nhân viên pha chế"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "phục vụ bàn",
+    "spyWord": "nhân viên phục vụ"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "giáo viên tiểu học",
+    "spyWord": "thầy cô cấp một"
+  },
+  {
+    "category": "Sức khỏe",
+    "civilianWord": "đau đầu",
+    "spyWord": "nhức đầu"
+  },
+  {
+    "category": "Sức khỏe",
+    "civilianWord": "cảm cúm",
+    "spyWord": "cảm lạnh"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "mưa lớn",
+    "spyWord": "mưa to"
+  },
+  {
+    "category": "Thiên nhiên",
+    "civilianWord": "nắng gắt",
+    "spyWord": "nắng nóng"
+  },
+  {
+    "category": "Giải trí",
+    "civilianWord": "truyện ngắn",
+    "spyWord": "truyện cực ngắn"
+  },
+  {
+    "category": "Trang phục",
+    "civilianWord": "giày thể thao",
+    "spyWord": "giày chạy bộ"
+  },
+  {
+    "category": "Xây dựng",
+    "civilianWord": "gạch đỏ",
+    "spyWord": "gạch nung"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "phòng khám",
+    "spyWord": "phòng mạch"
+  },
+  {
+    "category": "Hoạt động",
+    "civilianWord": "chạy bộ",
+    "spyWord": "chạy chậm"
+  },
+  {
+    "category": "Gia đình",
+    "civilianWord": "ông ngoại",
+    "spyWord": "bà ngoại"
+  },
+  {
+    "category": "Phương tiện",
+    "civilianWord": "dù bay",
+    "spyWord": "dù lượn"
+  },
+  {
+    "category": "Trang phục",
+    "civilianWord": "giày da",
+    "spyWord": "giày tây"
+  },
+  {
+    "category": "Động vật",
+    "civilianWord": "mèo nhà",
+    "spyWord": "mèo hoang"
+  },
+  {
+    "category": "Địa điểm",
+    "civilianWord": "trạm y tế",
+    "spyWord": "bệnh xá"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "hiệu trưởng",
+    "spyWord": "phó hiệu trưởng"
+  },
+  {
+    "category": "Xây dựng",
+    "civilianWord": "xi măng trắng",
+    "spyWord": "xi măng đen"
+  },
+  {
+    "category": "Xây dựng",
+    "civilianWord": "đá xanh",
+    "spyWord": "đá hộc"
+  },
+  {
+    "category": "Nghề nghiệp",
+    "civilianWord": "thợ điện",
+    "spyWord": "kỹ thuật viên điện"
+  }
+]
